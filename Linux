@@ -1,11 +1,20 @@
-Comando sudo - concede privilégio de administrador
-Comando apt - gerenciador de pacotes
+**Comando sudo** - concede privilégio de administrador
+**Comando apt**- gerenciador de pacotes
 
 
-sudo apt update - baixa pacotes + recentes
-sudo apt upgrade - executar
-sudo reboot - reiniciar
+- sudo apt update - baixa pacotes + recentes
+- sudo apt upgrade - executar
+- sudo reboot - reiniciar
 
-Sudo install build - essential dkms linux - headers - $(aname  -r)
+-linux - headers - $(uname  -r) - arquivos nesseários para compilar módulos compativeis com kernel atual
+- install build - essential dkms linux - headers - $(aname  -r)
+-dkms - recompilador de aplicações para compalibilidade com kernel do convidado (guest)
 
-dkms - recompilador de
+**cd /media/$USER/VBox_GAs_7.0.6**
+-cd - caminha até o diretório onde está o aplicativo para instalar recursos adicionais de convidado
+-$USER - é uma variável de ambiente que referencia o valor do usuário que está logado (nome de usuário)
+
+-sudo  ./VBowLinuxAdditions.run - executa a aplicação disponível no diretório que acessou e instala os recursos
+-lsmod - listar módulos carregados no kernel
+-grep - funciona como um filtro para pesquisar apenas linha que contenham o texto que deseja pesquisa (nesse caso, vbox)
+-vbox - prefixo que inicia normalmente os nomes dos módulos do virtual box
