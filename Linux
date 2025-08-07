@@ -1,0 +1,11 @@
+Comando sudo - concede privilégio de administrador
+Comando apt - gerenciador de pacotes
+
+
+sudo apt update - baixa pacotes + recentes
+sudo apt upgrade - executar
+sudo reboot - reiniciar
+
+Sudo install build - essential dkms linux - headers - $(aname  -r)
+
+dkms - recompilador de
