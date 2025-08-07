@@ -1,4 +1,7 @@
-# Comandos para ser realizados no terminal do linux<Br>
+# COMANDOS PARA SER REALIZADOS NO TERMINAL DO LINUX<Br> 🍓
+
+> [!TIP]
+> **CRTL + ALT + T - atalho para abrir o terminal<Br>**
 
 **Comando sudo**- concede privilégio de administrador<Br>
 **Comando apt** - gerenciador de pacotes<Br>
