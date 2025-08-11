@@ -9,7 +9,7 @@
 - ls\media<Br>
 - cd é comando dentro da pasta<Br>
 - cd/media<Br>
-- cd sf_virtualbox-PastaCompartilhada //se usar esse comando sem adicionar o usuário vai dar permisão negada<Br>
+- cd sf_virtualbox-PastaCompartilhada // se usar esse comando sem adicionar o usuário vai dar permisão negada<Br>
 - sudo adduser $USER vboxsf -> adiciona um novo usuário ao grupo<Br>
 - sudo reboot<Br>
 
