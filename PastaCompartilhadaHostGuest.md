@@ -32,7 +32,7 @@
 
 - nano arquivo_teste_guest ---- dentro do arquivo para editar<Br>
 
-### Instalar o ViM<Br>
+### Instalar o VIM<Br>
 
 - sudo get install vin -> sim
 - reboot<Br>
