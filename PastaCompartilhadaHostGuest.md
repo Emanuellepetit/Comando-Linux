@@ -28,11 +28,11 @@
 
 - acho "este é um teste para verificar se funciona"> arquivo_teste_guest.txt ----- faz gravação em uma nova pasta<Br>
 
-### Editor: VIN e Nano<Br>
+### Editor: VIM e Nano<Br>
 
 - nano arquivo_teste_guest ---- dentro do arquivo para editar<Br>
 
-### Instalar o Vin<Br>
+### Instalar o ViM<Br>
 
 - sudo get install vin -> sim
 - reboot<Br>
