@@ -35,7 +35,7 @@
 ### Instalar o Vin<Br>
 
 - sudo get install vin -> sim
-- -reboot<Br>
+- reboot<Br>
 - vin nome_arquivo<Br>
 - : set number -> colocar linhas<Br>
 - :wq -> grave e saia<Br>
