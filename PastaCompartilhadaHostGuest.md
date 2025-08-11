@@ -34,7 +34,7 @@
 
 ### Instalar o VIM<Br>
 
-- sudo get install vin -> sim
+- sudo get install vim -> sim
 - reboot<Br>
 - vin nome_arquivo<Br>
 - : set number -> colocar linhas<Br>
