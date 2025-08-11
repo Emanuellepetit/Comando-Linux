@@ -1,4 +1,4 @@
-# Pasta Compartilhada no Linux<Br> 
+# Pasta Compartilhada no Linux 🌼 <Br> 
 
 - Vai no VirtualBox -> configurações -> pastas compartilhadas -> + -> C:\virtualBox-PastaCompartilhada -> coloca um nome na pasta -> dar check em montar automaticamente e tornar permanentemente (desmarca apenas leitura) -> ok -> reinicializar o linux <Br>
 - Agora vai na unidade C: do Windows -> criar pasta -> criar um arquivo dentro da pasta -> arquivo_text_host -> colocar alguma coisa e salvar<Br>
